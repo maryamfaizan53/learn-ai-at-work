@@ -1,0 +1,11 @@
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+
+# Office lock files
+~$*
+.~lock.*
+
+# Never commit secrets or account exports
+.env
+.env.*

@@ -1,0 +1,31 @@
+customer_id,name,type,credit_limit,payment_terms_days,account_status,contact_role,contact_email
+C001,Harbourline Hotels Group,Hotel group,25000,30,Active - under review,Accounts payable,accounts@harbourlinehotelsgroup.example.com
+C002,Little Fern Café,Café,2500,30,Active,Accounts payable,accounts@littleferncafe.example.com
+C003,The Copper Kettle,Café,3000,30,Active,Accounts payable,accounts@copperkettle.example.com
+C004,Brickyard Bistro,Restaurant,6000,30,Active,Accounts payable,accounts@brickyardbistro.example.com
+C005,Morning Tide Coffee,Café,2500,30,Active,Accounts payable,accounts@morningtidecoffee.example.com
+C006,Olive & Thyme Kitchen,Restaurant,8000,30,Active,Accounts payable,accounts@oliveandthymekitchen.example.com
+C007,Saltmarsh Inn,Hotel,10000,30,Active,Accounts payable,accounts@saltmarshinn.example.com
+C008,Northfield Canteen Services,Catering,12000,30,Active,Accounts payable,accounts@northfieldcanteenservices.example.com
+C009,Pocket Espresso Bar,Café,1500,30,Active,Accounts payable,accounts@pocketespressobar.example.com
+C010,Riverside Deli,Deli,3000,30,Active,Accounts payable,accounts@riversidedeli.example.com
+C011,Golden Crust Bakery,Bakery,4000,30,Active,Accounts payable,accounts@goldencrustbakery.example.com
+C012,Tall Pines Lodge,Hotel,9000,30,Active,Accounts payable,accounts@tallpineslodge.example.com
+C013,Mango Street Eatery,Restaurant,5000,30,Active,Accounts payable,accounts@mangostreeteatery.example.com
+C014,Quarry Lane Café,Café,2000,30,Active,Accounts payable,accounts@quarrylanecafe.example.com
+C015,The Lantern Room,Restaurant,7000,30,Active,Accounts payable,accounts@lanternroom.example.com
+C016,Bluebell Tea House,Café,2000,30,Active,Accounts payable,accounts@bluebellteahouse.example.com
+C017,Ember Grill House,Restaurant,8000,30,Active,Accounts payable,accounts@embergrillhouse.example.com
+C018,Station Square Kiosks,Kiosk chain,6000,30,Active,Accounts payable,accounts@stationsquarekiosks.example.com
+C019,Westgate College Catering,Catering,15000,30,Active,Accounts payable,accounts@westgatecollegecatering.example.com
+C020,Driftwood Beach Café,Café,3000,30,Active,Accounts payable,accounts@driftwoodbeachcafe.example.com
+C021,Hilltop Golf Club,Club,6000,30,Active,Accounts payable,accounts@hilltopgolfclub.example.com
+C022,Sunny Side Diner,Restaurant,4000,30,Active,Accounts payable,accounts@sunnysidediner.example.com
+C023,The Oak Barrel,Pub,5000,30,Active,Accounts payable,accounts@oakbarrel.example.com
+C024,Maple Court Care Home,Care home,7000,30,Active,Accounts payable,accounts@maplecourtcarehome.example.com
+C025,Fig & Honey Patisserie,Bakery,3000,30,Active,Accounts payable,accounts@figandhoneypatisserie.example.com
+C026,Corner Cup Coffee Co.,Café chain,10000,30,Active,Accounts payable,accounts@cornercupcoffeeco.example.com
+C027,Lakeview Conference Centre,Venue,12000,30,Active,Accounts payable,accounts@lakeviewconferencecentre.example.com
+C028,Peppercorn Noodle Bar,Restaurant,4000,30,Active,Accounts payable,accounts@peppercornnoodlebar.example.com
+C029,Greenway Office Cafés,Catering,9000,30,Active,Accounts payable,accounts@greenwayofficecafes.example.com
+C030,Seven Bridges Hostel,Hotel,4000,30,Active,Accounts payable,accounts@sevenbridgeshostel.example.com

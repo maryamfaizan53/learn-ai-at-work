@@ -1,0 +1,43 @@
+payment_id,date_received,payer_name,amount,reference,method
+PAY-9020,2026-10-26,Golden Crust Bakery,259.83,INV-4240,Bank transfer
+PAY-9023,2026-10-26,Driftwood Beach Café,186.25,INV-4227,Bank transfer
+PAY-9024,2026-10-26,Quarry Lane Café,174.97,INV-4239,Bank transfer
+PAY-9028,2026-10-26,Brickyard Bistro,1318.72,INV-4264,Bank transfer
+PAY-9034,2026-10-26,Riverside Deli,221.09,INV-4181,Bank transfer
+PAY-9040,2026-10-26,Quarry Lane Café,152.91,INV-4122,Bank transfer
+PAY-9001,2026-10-27,Sunny Side Diner,792.45,INV-4215,Bank transfer
+PAY-9002,2026-10-27,Bluebell Tea House,401.77,INV-4258,Bank transfer
+PAY-9003,2026-10-27,Peppercorn Noodle Bar,520.91,INV-4216,Bank transfer
+PAY-9004,2026-10-27,Greenway Office Cafés,1637.58,INV-4255,Bank transfer
+PAY-9006,2026-10-27,Corner Cup Coffee Co.,467.51,INV-4260,Bank transfer
+PAY-9008,2026-10-27,Lakeview Conference Centre,1075.65,INV-4252,Bank transfer
+PAY-9014,2026-10-27,Peppercorn Noodle Bar,852.14,INV-4243,Bank transfer
+PAY-9021,2026-10-27,Olive & Thyme Kitchen,1224.34,INV-4257,Bank transfer
+PAY-9022,2026-10-27,Brickyard Bistro,1271.27,INV-4200,Bank transfer
+PAY-9027,2026-10-27,Ember Grill House,1467.27,INV-4187,Bank transfer
+PAY-9029,2026-10-27,Golden Crust Bakery,615.76,INV-4244,Bank transfer
+PAY-9030,2026-10-27,Hilltop Golf Club,734.17,INV-4254,Bank transfer
+PAY-9032,2026-10-27,Little Fern Café,156.56,INV-4228,Bank transfer
+PAY-9035,2026-10-27,Bluebell Tea House,50.49,INV-4247,Bank transfer
+PAY-9041,2026-10-27,KESTREL EVENTS LTD,640.00,KESTREL 2211,Bank transfer
+PAY-9007,2026-10-28,Station Square Kiosks,270.69,INV-4235,Bank transfer
+PAY-9013,2026-10-28,Riverside Deli,186.43,INV-4210,Bank transfer
+PAY-9015,2026-10-28,Quarry Lane Café,218.28,INV-4232,Bank transfer
+PAY-9025,2026-10-28,Greenway Office Cafés,773.06,INV-4236,Bank transfer
+PAY-9036,2026-10-28,Station Square Kiosks,401.05,INV-4242,Bank transfer
+PAY-9037,2026-10-28,Riverside Deli,495.46,OCT STATEMENT,Bank transfer
+PAY-9005,2026-10-29,Tall Pines Lodge,1678.28,INV-4259,Bank transfer
+PAY-9010,2026-10-29,Maple Court Care Home,1536.39,INV-4226,Bank transfer
+PAY-9011,2026-10-29,Northfield Canteen Services,1946.95,INV-4248,Bank transfer
+PAY-9012,2026-10-29,Tall Pines Lodge,941.76,INV-4253,Bank transfer
+PAY-9016,2026-10-29,Station Square Kiosks,511.09,INV-4118,Bank transfer
+PAY-9019,2026-10-29,Sunny Side Diner,765.27,INV-4246,Bank transfer
+PAY-9031,2026-10-29,Hilltop Golf Club,566.42,INV-4230,Bank transfer
+PAY-9033,2026-10-29,Mango Street Eatery,542.52,INV-4267,Bank transfer
+PAY-9038,2026-10-29,Westgate College Catering,2838.61,INV-4256 INV-4197,Bank transfer
+PAY-9042,2026-10-29,Little Fern Café,212.40,INV-9999,Bank transfer
+PAY-9009,2026-10-30,Hilltop Golf Club,881.14,INV-4241,Bank transfer
+PAY-9017,2026-10-30,Driftwood Beach Café,469.86,INV-4229,Bank transfer
+PAY-9018,2026-10-30,Seven Bridges Hostel,696.54,INV-4249,Bank transfer
+PAY-9026,2026-10-30,Morning Tide Coffee,421.62,INV-4263,Bank transfer
+PAY-9039,2026-10-30,Sunny Side Diner,792.45,INV-4215,Bank transfer
