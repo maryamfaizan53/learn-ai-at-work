@@ -10,6 +10,8 @@
 
 > 🚧 **Under development.** Every step is written in full and is being tested with learners in Claude and ChatGPT. Expect small changes.
 
+**Why a bootcamp?** Many learners have told us the PCAO-F exam is hard. Reading alone isn't enough: you forget what you don't practise. *You don't learn to drive by reading about driving. You learn by driving. The same applies to AI.* So in every step here you do real work with AI, check it, and keep it.
+
 Welcome! **This is where your AI journey starts.** You don't need to know anything about AI, coding or GitHub to begin. If you can use email, a web browser and a spreadsheet, you are ready.
 
 This bootcamp is for **knowledge workers**: people whose work is information, such as accountants, analysts, administrators, managers and assistants. Step by step, you learn to hand an AI a whole job, check what comes back, and then manage an **AI Worker**: an AI that holds a role and does part of a team's work every week, inside limits you set.
@@ -18,6 +20,8 @@ It is the hands-on companion to the book [The AI Agent Factory](https://agentfac
 
 > [!TIP]
 > **💰 On a budget?** Read our short guide **[Affordable AI for Knowledge Work](docs/affordable-ai.md)** first: what you can do for free, what is worth paying for, and how to avoid surprise charges. See also [What it costs](#what-it-costs-two-routes).
+
+**Start today:** (1) do [your first 15 minutes with AI](#start-here-your-first-15-minutes-with-ai) below; (2) follow [Step 00](step-00-readiness-check/) to make your own copy of the bootcamp (your fork) and set up the apps; (3) begin Step 01. Your work stays in your fork: never open a pull request to this repository.
 
 ## Start here: your first 15 minutes with AI
 
@@ -61,8 +65,11 @@ By the end of this bootcamp you will be able to:
 - explain in plain words why AI can sound right and still be wrong;
 - write the documents a manager needs to delegate safely: a brief, a set of checks agreed in advance, and clear limits on what the AI may do;
 - give an AI one official, up-to-date source of your company's rules;
+- improve anything you write with the **Dr. Gilsdorf method**: review, grade, improve, repeat;
 - set up work that runs without you, and fix it when it goes wrong;
 - show a complete, checked piece of delegated work, and sit the PCAO-F practice exam with confidence.
+
+On the way you pass three levels: **AI Work Practitioner**, **AI Worker Designer** and **AI Worker Manager** (see [Milestones and pacing](#milestones-and-pacing)).
 
 **You learn by doing.** The book explains the ideas. This bootcamp is where you use them, on one company's real-looking work, in both Claude and ChatGPT. Every step ends with something you made, checked and kept.
 
@@ -71,7 +78,9 @@ By the end of this bootcamp you will be able to:
 - **Start from zero.** Nothing is assumed. Step 00 walks you through setting up every app and account, one click at a time, and checks you are ready before you begin.
 - **Useful from the first step.** Everything you practise here, you can use in your own job the next morning.
 - **Your first certification.** The bootcamp follows the PCAO-F syllabus exactly, and its last step is the book's practice exam. See [Appendix C](https://agentfactory.panaversity.org/appendices/exams/associate-foundations/overview/) for how the exams work.
+- **A portfolio.** Your fork fills up with checked, real-looking work you can show employers and clients.
 - **A path to earning.** The same skills, used for other companies, are the start of client work and of the Forward Deployed Engineer (FDE) route in [The FDE 2027 Master Plan](https://agentfactory.panaversity.org/fde-2027-master-plan/). [From Skills to Income](https://agentfactory.panaversity.org/from-skills-to-income/overview/) shows the routes.
+- **The foundation for building.** It prepares you for our developer bootcamp, [Build and Sell MCP Apps](https://github.com/panaversity/learn-mcp) (see [What comes next](#what-comes-next)).
 
 ## Your client: Copperleaf Supply
 
@@ -127,9 +136,11 @@ You don't need to learn these now. Come back here whenever a word is new.
 
 ## What you need
 
+- No previous AI or programming experience.
 - A Mac or Windows computer.
 - An email address, to create free accounts with GitHub, Anthropic (Claude) and OpenAI (ChatGPT).
 - About **130 to 170 hours** over the whole bootcamp. You can go at your own pace.
+- A subscription is optional: there is a free route, and a paid plan lets you run the scheduled and connected work for real ([What it costs](#what-it-costs-two-routes)).
 
 You will install three free apps in Step 00, with step-by-step help: [Claude Desktop](https://claude.com/download), the [ChatGPT desktop app](https://chatgpt.com/download/) and [GitHub Desktop](https://desktop.github.com/download/).
 
@@ -337,6 +348,8 @@ When you finish this bootcamp and pass PCAO-F, you have a choice:
   Instructions, permissions and checks (Step 03) are the same idea one level down: there, you enforce the permissions in code.
 
   Prepare with chapters 12 to 15 of the book, then take Part I's own [Step 00 readiness check](https://github.com/panaversity/learn-mcp/tree/main/step-00-readiness-check), which tests each of these and tells you what to read for any gap. After Part I comes **Build and Sell Self Improving AI Workers: The CCDV-F Bootcamp Part II**, which is under development.
+
+**Don't just study AI. Put AI to work.**
 
 ## License
 
