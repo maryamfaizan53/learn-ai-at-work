@@ -1,0 +1,44 @@
+invoice_no,customer_id,customer_name,invoice_date,due_date,amount_open,days_overdue,age_band,disputed
+INV-4141,C001,Harbourline Hotels Group,2026-07-23,2026-08-22,1414.76,72,61-90,no
+INV-4161,C001,Harbourline Hotels Group,2026-08-06,2026-09-05,1115.12,58,31-60,no
+INV-4193,C001,Harbourline Hotels Group,2026-08-26,2026-09-25,2583.78,38,31-60,no
+INV-4196,C009,Pocket Espresso Bar,2026-08-27,2026-09-26,210.07,37,31-60,no
+INV-4197,C019,Westgate College Catering,2026-08-28,2026-09-27,1395.69,36,31-60,no
+INV-4206,C009,Pocket Espresso Bar,2026-09-04,2026-10-04,129.15,29,1-30,no
+INV-4207,C001,Harbourline Hotels Group,2026-09-04,2026-10-04,2852.39,29,1-30,no
+INV-4217,C030,Seven Bridges Hostel,2026-09-14,2026-10-14,341.14,19,1-30,no
+INV-4220,C010,Riverside Deli,2026-09-16,2026-10-16,495.46,17,1-30,no
+INV-4221,C024,Maple Court Care Home,2026-09-17,2026-10-17,1487.44,16,1-30,no
+INV-4224,C019,Westgate College Catering,2026-09-18,2026-10-18,3037.99,15,1-30,no
+INV-4231,C019,Westgate College Catering,2026-09-24,2026-10-24,941.00,9,1-30,no
+INV-4234,C025,Fig & Honey Patisserie,2026-09-25,2026-10-25,187.61,8,1-30,no
+INV-4237,C005,Morning Tide Coffee,2026-09-28,2026-10-28,202.72,5,1-30,no
+INV-4238,C001,Harbourline Hotels Group,2026-09-28,2026-10-28,2245.74,5,1-30,no
+INV-4242,C018,Station Square Kiosks,2026-09-30,2026-10-30,281.05,3,1-30,no
+INV-4245,C025,Fig & Honey Patisserie,2026-10-01,2026-10-31,521.27,2,1-30,no
+INV-4199,C004,Brickyard Bistro,2026-08-31,2026-09-30,1084.06,,Disputed,yes
+INV-4247,C016,Bluebell Tea House,2026-10-05,2026-11-04,100.99,-2,Not yet due,no
+INV-4251,C026,Corner Cup Coffee Co.,2026-10-07,2026-11-06,818.52,-4,Not yet due,no
+INV-4256,C019,Westgate College Catering,2026-10-09,2026-11-08,1442.92,-6,Not yet due,no
+INV-4262,C015,The Lantern Room,2026-10-13,2026-11-12,1245.69,-10,Not yet due,no
+INV-4265,C018,Station Square Kiosks,2026-10-15,2026-11-14,474.49,-12,Not yet due,no
+INV-4266,C019,Westgate College Catering,2026-10-16,2026-11-15,720.54,-13,Not yet due,no
+INV-4268,C017,Ember Grill House,2026-10-19,2026-11-18,471.09,-16,Not yet due,no
+INV-4269,C005,Morning Tide Coffee,2026-10-19,2026-11-18,429.66,-16,Not yet due,no
+INV-4270,C018,Station Square Kiosks,2026-10-20,2026-11-19,522.36,-17,Not yet due,no
+INV-4271,C002,Little Fern Café,2026-10-20,2026-11-19,431.80,-17,Not yet due,no
+INV-4272,C015,The Lantern Room,2026-10-21,2026-11-20,1614.43,-18,Not yet due,no
+INV-4273,C010,Riverside Deli,2026-10-21,2026-11-20,412.23,-18,Not yet due,no
+INV-4274,C005,Morning Tide Coffee,2026-10-22,2026-11-21,537.74,-19,Not yet due,no
+INV-4275,C007,Saltmarsh Inn,2026-10-22,2026-11-21,2157.01,-19,Not yet due,no
+INV-4276,C028,Peppercorn Noodle Bar,2026-10-23,2026-11-22,596.28,-20,Not yet due,no
+INV-4277,C014,Quarry Lane Café,2026-10-26,2026-11-25,208.04,-23,Not yet due,no
+INV-4278,C025,Fig & Honey Patisserie,2026-10-26,2026-11-25,607.15,-23,Not yet due,no
+INV-4279,C015,The Lantern Room,2026-10-26,2026-11-25,1974.83,-23,Not yet due,no
+INV-4280,C024,Maple Court Care Home,2026-10-27,2026-11-26,930.40,-24,Not yet due,no
+INV-4281,C006,Olive & Thyme Kitchen,2026-10-27,2026-11-26,773.13,-24,Not yet due,no
+INV-4282,C015,The Lantern Room,2026-10-28,2026-11-27,360.92,-25,Not yet due,no
+INV-4283,C004,Brickyard Bistro,2026-10-28,2026-11-27,796.19,-25,Not yet due,no
+INV-4284,C015,The Lantern Room,2026-10-29,2026-11-28,1289.04,-26,Not yet due,no
+INV-4285,C010,Riverside Deli,2026-10-30,2026-11-29,236.74,-27,Not yet due,no
+INV-4286,C005,Morning Tide Coffee,2026-10-30,2026-11-29,369.77,-27,Not yet due,no
